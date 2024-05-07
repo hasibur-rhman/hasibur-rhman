@@ -1,7 +1,7 @@
 ![logo](https://github.com/hasibur-rhman/hasibur-rhman/blob/main/final%20%20banner.png)
 <h1 align="center">Hi 👋, I'm Hasib ur Rahman</h1>
 <h3 align="center">I am a Competitive Programmer , Data Analyst with Machine Learning Expertise and WEB developer</h3>
-<img align="right" alt="coidng" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coidng" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952ct0tzvxcdvijpitdwnvekwjr3atil7qsgcq5g0e5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
 
