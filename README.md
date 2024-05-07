@@ -1,4 +1,4 @@
-![logo](https://github.com/hasibur-rhman/hasibur-rhman/blob/main/final%20%20banner.png)
+![logo](https://github.com/hasibur-rhman/hasibur-rhman/blob/main/Hasib-ur-rahman-1158-%C3%97-313px.png)
 <h1 align="center">Hi 👋, I'm Hasib ur Rahman</h1>
 <h3 align="center">I am a Competitive Programmer , also a Data Analyst with Machine Learning Expertise 
                                  and I have also knowledge of fullstack webdevelopment</h3>
