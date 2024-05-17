@@ -1,6 +1,6 @@
 ![logo](https://github.com/hasibur-rhman/hasibur-rhman/blob/main/Hasib-ur-rahman-1158-%C3%97-313px.png)
 <h1 align="center">Hi 👋, I'm Hasib ur Rahman</h1>
-<h3 align="center">I am a Competitive Programmer , also a Data Analyst with Machine Learning Expertise 
+<h3 align="center">I am a Competitive Programmer , also a Data scientist
                                  and I have also knowledge of fullstack webdevelopment</h3>
 <img align="right" alt="coidng" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952ct0tzvxcdvijpitdwnvekwjr3atil7qsgcq5g0e5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
