@@ -1,4 +1,4 @@
-![logo](https://github.com/hasibur-rhman/hasibur-rhman/blob/main/Hasib-ur-rahman-1158-%C3%97-313px.png)
+
 <h1 align="center">Hi 👋, I'm Hasib ur Rahman</h1>
 <h3 align="center">I am a Competitive Programmer.
                    
